@@ -28,12 +28,12 @@ export default [
       ...react.configs.recommended.rules,
       ...react.configs['jsx-runtime'].rules,
       ...reactHooks.configs.recommended.rules,
-      "react/prop-types": [<enabled>, { ignore: <ignore>, customValidators: <customValidator>, skipUndeclared: <skipUndeclared> }]
-...
+      "react/prop-types": 0,
       'react/jsx-no-undef': 'off',
       'react/jsx-uses-react': 'off',
       'react/jsx-uses-vars': 'off',
       'react/jsx-no-target-blank': 'off',
+      "no-unused-vars": "off",
       'react-refresh/only-export-components': [
         'warn',
         { allowConstantExport: true },

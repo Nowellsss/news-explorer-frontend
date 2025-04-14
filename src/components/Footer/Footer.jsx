@@ -11,7 +11,7 @@ const Footer = () => (
         <li className="footer__container-item"><a className="footer__container-link" href="https://tripleten.com.br/" target="_blank" rel="noreferrer">TripleTen</a></li>
       </ul>
       <ul className="footer__container-content footer__container-icons">
-        <li><a href="https://github.com/asrm7/news-explorer-frontend" target="_blank" rel="noreferrer"><img src={github} alt="github" className=" footer__container-content_icon" /></a></li>
+        <li><a href="https://github.com/Nowellsss/news-explorer-frontend" target="_blank" rel="noreferrer"><img src={github} alt="github" className=" footer__container-content_icon" /></a></li>
         <li><a href="https://pt-br.facebook.com/" target="_blank" rel="noreferrer"><img src={facebook} alt="facebook" className="footer__container-content_icon" /></a></li>
       </ul>
     </div>
