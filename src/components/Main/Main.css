@@ -4,6 +4,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 576px;
+  max-width: 1440px;
 
 }
 .main__container{
@@ -47,7 +48,7 @@ margin-bottom: 88px;
       text-align: left;
   }
 }
-@media screen and (max-width:540px){
+@media screen and (max-width:608px){
 
  .main{
   display: flex;

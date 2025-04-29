@@ -1,21 +1,23 @@
 .about{
   display: flex;
   margin: 80px 104px;
-  max-width: 100%;
-  
+  max-width: 1440px;
   }
-  .about__image{
+
+.about__image{
       border-radius: 100%;
       max-width: 304px;
       max-height: 304px;
       width: 30vw;
       height: 30vw;
       margin-top: 50px;
-  }
-  .about__text{
+}
+  
+.about__text{
       margin: 51px 56px;
   }
-  .about__text-title{
+  
+.about__text-title{
       margin: 0;
       margin-bottom: 24px;
       font-family: 'Roboto Slab',  sans-serif;
@@ -24,7 +26,8 @@
       line-height: 46px;
       max-width: 90vw;
   }
-  .about__text-para{
+  
+.about__text-para{
       margin: 0;
       margin-bottom: 10px;
       max-width: 600px;

@@ -4,6 +4,7 @@
   flex-direction: row;
   margin: 30px 104px;   
   justify-content: space-between;
+  max-width: 1440px;
  }
  
  .footer__title{
