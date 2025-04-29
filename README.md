@@ -1,5 +1,9 @@
 # News Explorer (FrontEnd)
+<<<<<<< HEAD
  Projeto de final de curso da Tripleten Brasil. Disponível em "https://news-explorer-frontend-two.vercel.app/".
+=======
+ Projeto de final de curso da Tripleten Brasil. Disponível em "[https://news-explorer-front-final-project.onrender.com](https://news-explorer-frontend-two.vercel.app/)".
+>>>>>>> 86912ff26756a14e5b836bb2a721276f84af9ddb
 ### Objetivo
  Criar um aplicativo funcional de busca de notícias, utilizando tecnologias atualizadas e melhores práticas da área.
 
