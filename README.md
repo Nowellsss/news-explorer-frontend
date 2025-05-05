@@ -36,4 +36,8 @@
  React
  React-Router-Dom
  React-hook-form 
+
+ # Revisões
+
+ Já tratado a parte de Responsabilidade e feito envio apartir de Pull Request
  
