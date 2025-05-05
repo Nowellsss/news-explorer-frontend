@@ -2,6 +2,8 @@
   display: flex;
   margin: 80px 104px;
   max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
   }
 
 .about__image{
